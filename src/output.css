@@ -770,10 +770,6 @@ video {
   margin-top: 0.5rem;
 }
 
-.mt-20 {
-  margin-top: 5rem;
-}
-
 .mt-3 {
   margin-top: 0.75rem;
 }
@@ -800,10 +796,6 @@ video {
 
 .mt-auto {
   margin-top: auto;
-}
-
-.mt-72 {
-  margin-top: 18rem;
 }
 
 .block {
